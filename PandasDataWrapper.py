@@ -39,4 +39,4 @@ class btPandasStrategy(bt.Strategy):
  
         return pd_dateIndex
 	
-	def get_all(self, data, ago=0, datasname='close')
+	#def get_all(self, data, ago=0, datasname='close')
