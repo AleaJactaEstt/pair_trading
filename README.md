@@ -1,4 +1,6 @@
-# Pair Trading algorithm 
+# Pair Trading algorithm [DEPRECATED]
+
+Решил перейти на другой бектестер, так как по backtrader(y) мало информации и плохая документация. Переходим на zipline.
 Pair trading algorithm for Sber stocks.
 Two-sided Dickey-Fuller is used.
 
